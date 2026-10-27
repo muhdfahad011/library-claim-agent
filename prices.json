@@ -1,0 +1,1975 @@
+{
+  "1": {
+    "title": "The Journey of Crazy Horse",
+    "evidence": [
+      {
+        "url": "https://www.penguinrandomhouse.com/books/291225/the-journey-of-crazy-horse-by-joseph-m-marshall-iii/",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 19.0,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "Paperback$19.00"
+        }
+      },
+      {
+        "url": "https://www.audible.com/pd/The-Journey-of-Crazy-Horse-Audiobook/B002VA9NA0?srsltid=AYCX9vIPaGTtJJPdfoF_p_xIuAH0j42jds0ttVEeVOhrfnxB2mx5m9Eb",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://books.google.com/books/about/The_Journey_of_Crazy_Horse.html?id=aI9PEAAAQBAJ",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.ingallshomestead.com/books/journey-of-crazy-horse?srsltid=AYCX9vJgIW-1hGQmw70vx0AsGSzyoydFWi2HLRpT7H_LZxyymm2RJXRH",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 18.0,
+          "price_list": null,
+          "currency": "$",
+          "quote": "$18.00"
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 1756,
+      "currency": "INR",
+      "sources": [
+        "https://www.penguinrandomhouse.com/books/291225/the-journey-of-crazy-horse-by-joseph-m-marshall-iii/",
+        "https://www.ingallshomestead.com/books/journey-of-crazy-horse?srsltid=AYCX9vJgIW-1hGQmw70vx0AsGSzyoydFWi2HLRpT7H_LZxyymm2RJXRH"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        18.0,
+        19.0
+      ],
+      "original_amount": 18.5,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": []
+  },
+  "0": {
+    "title": "Indigenous Continent",
+    "evidence": [
+      {
+        "url": "https://birchbarkbooks.com/products/indigenous-continent",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 22.0,
+          "price_list": 22.0,
+          "currency": "USD",
+          "quote": "$22.00$22.00"
+        }
+      },
+      {
+        "url": "https://www.washingtonpost.com/books/2022/10/05/indigenous-continent-pekka-hamalainen-review/",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.audible.com/pd/Indigenous-Continent-Audiobook/B0BQ1QKKDJ?srsltid=AYCX9vK2d25nQ3C_mQSLd9rIVktUAzV4ZCIN6AN23IdNeonLf9MAbdts",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://legalhist.jotwell.com/complicated-continent-pekka-hmlinen-and-the-history-of-native-america/",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 2089,
+      "currency": "INR",
+      "sources": [
+        "https://birchbarkbooks.com/products/indigenous-continent"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        22.0,
+        22.0
+      ],
+      "original_amount": 22.0,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": [
+      "only one replacement price source"
+    ]
+  },
+  "3": {
+    "title": "Bad Mexicans",
+    "evidence": [
+      {
+        "url": "https://www.labyrinthbooks.com/bad-mexicans-race-empire-and-revolution-in-the-borderlands/",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 19.95,
+          "price_list": 19.95,
+          "currency": "$",
+          "quote": "List Price$19.95"
+        }
+      },
+      {
+        "url": "https://www.altaonline.com/california-book-club/a44015896/why-you-should-read-bad-mexicans-kelly-lytle-hernandez/",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      },
+      {
+        "url": "https://chipublib.bibliocommons.com/v2/record/S126C2410796",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      },
+      {
+        "url": "https://shc.stanford.edu/stanford-humanities-center/events/kelly-lytle-hernandez-bad-mexicans-race-empire-and-revolution",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      }
+    ],
+    "replacement_cost": {
+      "amount": 19.95,
+      "currency": "$",
+      "sources": [
+        "https://www.labyrinthbooks.com/bad-mexicans-race-empire-and-revolution-in-the-borderlands/"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": false,
+      "range": [
+        19.95,
+        19.95
+      ]
+    },
+    "used_value": null,
+    "review": [
+      "only one replacement price source"
+    ]
+  },
+  "2": {
+    "title": "Fifth Sun",
+    "evidence": [
+      {
+        "url": "https://global.oup.com/academic/product/fifth-sun-9780197577660",
+        "kind": "rejected: quote not found on page",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 26.99,
+          "price_list": null,
+          "currency": "$",
+          "quote": "$26.99\n\nPaperback"
+        }
+      },
+      {
+        "url": "https://www.theguardian.com/books/2020/feb/13/fifth-sun-camilla-townsend-history-aztecs-review",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.ebay.com/shop/fifth-sun-book?_nkw=fifth+sun+book",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://rodrigomorenog.files.wordpress.com/2021/08/townsend-fifth-sun_-a-new-history-of-the-aztecs-oxford-university-press-2019.pdf",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "hardcover",
+          "price_type": null,
+          "condition": "new",
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      }
+    ],
+    "replacement_cost": null,
+    "used_value": null,
+    "review": [
+      "no verified replacement price"
+    ]
+  },
+  "4": {
+    "title": "Dope",
+    "evidence": [
+      {
+        "url": "https://www.penguinrandomhouse.ca/books/696437/the-dope-by-benjamin-t-smith/9781324021827",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 27.0,
+          "price_list": null,
+          "currency": "$",
+          "quote": "Paperback\n\n###### $27.00"
+        }
+      },
+      {
+        "url": "https://newbooksnetwork.com/the-dope",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://cisneros.columbian.gwu.edu/dope-real-history-mexican-drug-trade",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.nytimes.com/2021/08/14/books/review/benjamin-t-smith-the-dope.html",
+        "kind": "error: scrape HTTP 403",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      }
+    ],
+    "replacement_cost": {
+      "amount": 27.0,
+      "currency": "$",
+      "sources": [
+        "https://www.penguinrandomhouse.ca/books/696437/the-dope-by-benjamin-t-smith/9781324021827"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": false,
+      "range": [
+        27.0,
+        27.0
+      ]
+    },
+    "used_value": null,
+    "review": [
+      "only one replacement price source"
+    ]
+  },
+  "5": {
+    "title": "Cuba: An American History",
+    "evidence": [
+      {
+        "url": "https://bulkbookstore.com/cuba-an-american-history-9781501154560?srsltid=AYCX9vL96oxtO3OnYN9lJ9ix32JLm9vGRQ6XmhVQRXfaBHPnwyWPAwAq",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 12.76,
+          "price_list": 22.0,
+          "currency": "USD",
+          "quote": "List Price $12.76 ~~$22.00~~ Up to 52% OFF"
+        }
+      },
+      {
+        "url": "https://brill.com/view/journals/nwig/96/3-4/article-p343_7.xml?language=en&srsltid=AYCX9vJv71S3hiHvAMcH7bpy575U3zOEbLNSQYoN1tEx7J9I5HbGCu-U",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.pulitzer.org/winners/ada-ferrer",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.simonandschuster.com/books/Cuba-(Winner-of-the-Pulitzer-Prize)/Ada-Ferrer/9781501154560",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Trade Paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 22.0,
+          "price_list": 22.0,
+          "currency": "USD",
+          "quote": "LIST PRICE $22.00"
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 1650,
+      "currency": "INR",
+      "sources": [
+        "https://bulkbookstore.com/cuba-an-american-history-9781501154560?srsltid=AYCX9vL96oxtO3OnYN9lJ9ix32JLm9vGRQ6XmhVQRXfaBHPnwyWPAwAq",
+        "https://www.simonandschuster.com/books/Cuba-(Winner-of-the-Pulitzer-Prize)/Ada-Ferrer/9781501154560"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        12.76,
+        22.0
+      ],
+      "original_amount": 17.38,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": [
+      "replacement sources disagree by more than 50%"
+    ]
+  },
+  "6": {
+    "title": "The Cubans",
+    "evidence": [
+      {
+        "url": "https://magazine.nd.edu/stories/what-im-reading-the-cubans-anthony-depalma/",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.penguinrandomhouse.com/books/562138/the-cubans-by-anthony-depalma/",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 23.0,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "Paperback$23.00"
+        }
+      },
+      {
+        "url": "https://www.ebay.com/itm/267787805610",
+        "kind": "error: scrape HTTP 500",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      },
+      {
+        "url": "https://revista.drclas.harvard.edu/the-cubans/",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 2184,
+      "currency": "INR",
+      "sources": [
+        "https://www.penguinrandomhouse.com/books/562138/the-cubans-by-anthony-depalma/"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        23.0,
+        23.0
+      ],
+      "original_amount": 23.0,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": [
+      "only one replacement price source"
+    ]
+  },
+  "7": {
+    "title": "The Black Jacobins",
+    "evidence": [
+      {
+        "url": "https://www.flipkart.com/the-black-jacobins/p/itma38b0aeb033a0",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 385.0,
+          "price_list": 1295.0,
+          "currency": "₹",
+          "quote": "1,295\n\n₹406\n\nBuy at ₹385"
+        }
+      },
+      {
+        "url": "https://www.ubuy.co.in/product/4K4PC26OG-the-black-jacobins-toussaint-l-x27-ouverture-and-the-san-domingo-revolution?srsltid=AYCX9vJR-raJNwqTpnXXKExXid6IJKEpa6lWJpiOGI_405tEqt6Nt5Ht",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 2140.0,
+          "price_list": 2140.0,
+          "currency": "INR",
+          "quote": "Price:\nINR 2140\n\nPrice Details\n\nPrice\n\nINR 2140\n\nM.R.P. INR 2140"
+        }
+      },
+      {
+        "url": "https://www.bookswagon.com/book/black-jacobins-c-l-r/9780241562079?srsltid=AYCX9vL6ChD56O2STFgV94R76RTu2KadbtZR7Tg5mr8-Ik6XN66Dc1dL",
+        "kind": "error: scrape HTTP 500",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      },
+      {
+        "url": "https://www.flipkart.com/hi/the-black-jacobins/p/itma38b0aeb033a0",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 385.0,
+          "price_list": 1295.0,
+          "currency": "₹",
+          "quote": "₹406\n\nBuy at ₹385"
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 385.0,
+      "currency": "₹",
+      "sources": [
+        "https://www.flipkart.com/the-black-jacobins/p/itma38b0aeb033a0",
+        "https://www.ubuy.co.in/product/4K4PC26OG-the-black-jacobins-toussaint-l-x27-ouverture-and-the-san-domingo-revolution?srsltid=AYCX9vJR-raJNwqTpnXXKExXid6IJKEpa6lWJpiOGI_405tEqt6Nt5Ht",
+        "https://www.flipkart.com/hi/the-black-jacobins/p/itma38b0aeb033a0"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": false,
+      "range": [
+        385.0,
+        2140.0
+      ]
+    },
+    "used_value": null,
+    "review": [
+      "replacement sources disagree by more than 50%"
+    ]
+  },
+  "8": {
+    "title": "Open Veins of Latin America",
+    "evidence": [
+      {
+        "url": "https://nyupress.org/9780853459910/open-veins-of-latin-america/",
+        "kind": "rejected: quote not found on page",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 22.0,
+          "price_list": null,
+          "currency": "$",
+          "quote": "Paperback\n9780853459910\nPublished: January 1997\n\n$22.00"
+        }
+      },
+      {
+        "url": "https://citylights.com/latin-america/open-veins-of-latin-amer-25th-anniv-ed/",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 22.0,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "Price: $22.00"
+        }
+      },
+      {
+        "url": "https://monthlyreview.org/9780853459910/",
+        "kind": "rejected: quote not found on page",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 22.0,
+          "price_list": null,
+          "currency": "$",
+          "quote": "Paperback\n9780853459910\nPublished: 1997-01-01\n\n$22.00"
+        }
+      },
+      {
+        "url": "https://library.uniteddiversity.coop/More_Books_and_Reports/Open_Veins_of_Latin_America.pdf",
+        "kind": "error: scrape HTTP 500",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      }
+    ],
+    "replacement_cost": {
+      "amount": 2089,
+      "currency": "INR",
+      "sources": [
+        "https://citylights.com/latin-america/open-veins-of-latin-amer-25th-anniv-ed/"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        22.0,
+        22.0
+      ],
+      "original_amount": 22.0,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": [
+      "only one replacement price source"
+    ]
+  },
+  "10": {
+    "title": "1491",
+    "evidence": [
+      {
+        "url": "https://birchbarkbooks.com/products/1491",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 21.0,
+          "price_list": 21.0,
+          "currency": "USD",
+          "quote": "Regular price\n\n$21.00$21.00\n\nRegular price\n\n~~~~\n\nSale price\n\n$21.00$21.00"
+        }
+      },
+      {
+        "url": "https://www.penguinrandomhouse.com/books/107178/1491-second-edition-by-charles-c-mann/",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 21.0,
+          "price_list": null,
+          "currency": "$",
+          "quote": "Paperback$21.00"
+        }
+      },
+      {
+        "url": "https://sobrief.com/books/1491",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.target.com/p/1491-by-charles-c-mann-hardcover/-/A-11973860",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Hardcover",
+          "price_type": null,
+          "condition": "new",
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 1994,
+      "currency": "INR",
+      "sources": [
+        "https://birchbarkbooks.com/products/1491",
+        "https://www.penguinrandomhouse.com/books/107178/1491-second-edition-by-charles-c-mann/"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        21.0,
+        21.0
+      ],
+      "original_amount": 21.0,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": []
+  },
+  "9": {
+    "title": "War Against All Puerto Ricans",
+    "evidence": [
+      {
+        "url": "https://www.flipkart.com/hi/war-against-all-puerto-ricans/p/itmf3qrgjfgduzyz",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Hardcover",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 3239.0,
+          "price_list": 3599.0,
+          "currency": "INR",
+          "quote": "₹3,599\n\nBuy at ₹3,239"
+        }
+      },
+      {
+        "url": "https://bookscape.com/product-details/war-against-all-puerto-ricans-9781568585611?srsltid=AYCX9vLovTnxGCfORhaouuCl6gUF4PJ4UR2sJVPnjHsY38PK6lGBIZZm",
+        "kind": "error: scrape HTTP 500",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      },
+      {
+        "url": "https://www.ubuy.co.in/product/3ZT788TMW-war-against-all-puerto-ricans-revolution-and-terror-in-americas-colony-audiobook?srsltid=AYCX9vI4wYP9QdCakVuyeGuFngegbgX25JUltpZc85X6fjGGACtD-qgq",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": "Audiobook",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 4759.0,
+          "price_list": 4759.0,
+          "currency": "INR",
+          "quote": "Price:\nINR 4759\n\nPrice Details\n\nPrice\n\nINR 4759\n\nM.R.P. INR 4759"
+        }
+      },
+      {
+        "url": "https://www.ebay.com/itm/356118752658",
+        "kind": "used",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "marketplace_used",
+          "condition": "used",
+          "price_payable": 17.95,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "US $17.95"
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 3239.0,
+      "currency": "INR",
+      "sources": [
+        "https://www.flipkart.com/hi/war-against-all-puerto-ricans/p/itmf3qrgjfgduzyz"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": false,
+      "range": [
+        3239.0,
+        3239.0
+      ]
+    },
+    "used_value": {
+      "amount": 1704,
+      "currency": "INR",
+      "sources": [
+        "https://www.ebay.com/itm/356118752658"
+      ],
+      "retrieved_at": "2026-10-24",
+      "condition_assumed": "used",
+      "converted": true,
+      "original_amount": 17.95,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "review": [
+      "only one replacement price source"
+    ]
+  },
+  "11": {
+    "title": "Conquistador",
+    "evidence": [
+      {
+        "url": "https://www.target.com/p/conquistador-by-buddy-levy-paperback/-/A-91572811",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 18.0,
+          "price_list": 23.0,
+          "currency": "USD",
+          "quote": "$18.00 MSRP $23.00"
+        }
+      },
+      {
+        "url": "https://www.abebooks.com/9780553805383/Conquistador-Hernan-Cortes-King-Montezuma-055380538X/plp",
+        "kind": "used",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Hardcover",
+          "price_type": "marketplace_used",
+          "condition": "used",
+          "price_payable": 30.79,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "US$ 30.79"
+        }
+      },
+      {
+        "url": "https://www.penguinrandomhouse.com/books/100714/conquistador-by-buddy-levy/",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 23.0,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "Paperback$23.00"
+        }
+      },
+      {
+        "url": "https://www.penguin.com.au/books/conquistador-9780553905267",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": null,
+          "condition": "unknown",
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 1946,
+      "currency": "INR",
+      "sources": [
+        "https://www.target.com/p/conquistador-by-buddy-levy-paperback/-/A-91572811",
+        "https://www.penguinrandomhouse.com/books/100714/conquistador-by-buddy-levy/"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        18.0,
+        23.0
+      ],
+      "original_amount": 20.5,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": {
+      "amount": 2923,
+      "currency": "INR",
+      "sources": [
+        "https://www.abebooks.com/9780553805383/Conquistador-Hernan-Cortes-King-Montezuma-055380538X/plp"
+      ],
+      "retrieved_at": "2026-10-24",
+      "condition_assumed": "used",
+      "converted": true,
+      "original_amount": 30.79,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "review": []
+  },
+  "12": {
+    "title": "Wake",
+    "evidence": [
+      {
+        "url": "https://rep.club/products/wake-pb?srsltid=AYCX9vIzWci4ZzmDOqT7qmHFV2IvWUMRP8dE3DicHL7YHR09TSqWbHpB",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 19.99,
+          "price_list": 19.99,
+          "currency": "USD",
+          "quote": "Regular price\n$19.99"
+        }
+      },
+      {
+        "url": "https://www.simonandschuster.com/books/Wake/Rebecca-Hall/9781982115197",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Trade Paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 19.99,
+          "price_list": 19.99,
+          "currency": "USD",
+          "quote": "LIST PRICE $19.99"
+        }
+      },
+      {
+        "url": "https://www.theguardian.com/books/2021/jul/31/wake-review-hidden-history-of-women-led-slave-revolts-rebecca-hall-hugo-martinez",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.rebhallphd.org/",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 1898,
+      "currency": "INR",
+      "sources": [
+        "https://rep.club/products/wake-pb?srsltid=AYCX9vIzWci4ZzmDOqT7qmHFV2IvWUMRP8dE3DicHL7YHR09TSqWbHpB",
+        "https://www.simonandschuster.com/books/Wake/Rebecca-Hall/9781982115197"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        19.99,
+        19.99
+      ],
+      "original_amount": 19.99,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": []
+  },
+  "13": {
+    "title": "The Fortunes of Africa",
+    "evidence": [
+      {
+        "url": "https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/10042/the-fortunes-of-africa",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.hachettebookgroup.com/titles/martin-meredith/the-fortunes-of-africa/9781610396356/?lens=publicaffairs",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Trade Paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 24.99,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "Trade Paperback\n\n    $24.99\n    $30.99 CAD"
+        }
+      },
+      {
+        "url": "https://www.washingtonpost.com/opinions/book-review-the-fortunes-of-africa-a-5000-year-history-by-martin-meredith/2015/01/02/54f6e99e-3787-11e4-9c9f-ebb47272e40e_story.html",
+        "kind": "rejected: quote not found on page",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "hardcover",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 35.0,
+          "price_list": 35.0,
+          "currency": "$",
+          "quote": "THE FORTUNES OF AFRICA A 5000-Year History of Wealth, Greed, and Endeavour By Martin Meredith PublicAffairs. 745 pp. $35"
+        }
+      },
+      {
+        "url": "https://www.simonandschuster.co.uk/books/Fortunes-of-Africa/Martin-Meredith/9781471135453",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 12.99,
+          "price_list": 12.99,
+          "currency": "GBP",
+          "quote": "LIST PRICE £12.99"
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 1803,
+      "currency": "INR",
+      "sources": [
+        "https://www.hachettebookgroup.com/titles/martin-meredith/the-fortunes-of-africa/9781610396356/?lens=publicaffairs",
+        "https://www.simonandschuster.co.uk/books/Fortunes-of-Africa/Martin-Meredith/9781471135453"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        12.99,
+        24.99
+      ],
+      "original_amount": 18.99,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": [
+      "replacement sources disagree by more than 50%"
+    ]
+  },
+  "15": {
+    "title": "White Malice",
+    "evidence": [
+      {
+        "url": "https://hurstpublishers.com/book/white-malice/",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 19.99,
+          "price_list": null,
+          "currency": "GBP",
+          "quote": "White MalicePaperback£19.99"
+        }
+      },
+      {
+        "url": "https://www.hachettebookgroup.com/titles/susan-williams/white-malice/9781549136078/?lens=publicaffairs",
+        "kind": "rejected: quote not found on page",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Trade Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 24.99,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "Trade Paperback\n\n\n$24.99\n$32.99 CAD"
+        }
+      },
+      {
+        "url": "https://concerninghistory.org/reviews/book-club-white-malice-by-susan-williams/",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://firestorm.coop/products/20387-white-malice.html",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 24.99,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "$24.99"
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 22.49,
+      "currency": "GBP",
+      "sources": [
+        "https://hurstpublishers.com/book/white-malice/",
+        "https://firestorm.coop/products/20387-white-malice.html"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": false,
+      "range": [
+        19.99,
+        24.99
+      ]
+    },
+    "used_value": null,
+    "review": []
+  },
+  "14": {
+    "title": "How Europe Underdeveloped Africa",
+    "evidence": [
+      {
+        "url": "https://www.versobooks.com/products/788-how-europe-underdeveloped-africa?srsltid=AYCX9vKf7OA2Nikk-kxu-NPmyOmDzEFI9iLDf0Mb1unmq8sYEDPqP-5w",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": null,
+          "condition": "new",
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://1804books.com/products/how-europe-underdeveloped-africa?srsltid=AYCX9vIIBB7ia5hXTjXIxA6EkV9AImxES-BocKoZaDYcqWHr42X0zCKh",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 26.95,
+          "price_list": 26.95,
+          "currency": "USD",
+          "quote": "Regular price$26.95"
+        }
+      },
+      {
+        "url": "https://darajapress.com/publication/walter-rodney-an-enduring-legacy/?srsltid=AYCX9vJy4x94jxgHCoonAGQDqsVABIWLqafMklOAOLcgQWLMnOEc_oNt",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://arxiujosepserradell.cat/wp-content/uploads/2022/03/How-Europe-Underdeveloped-Africa-by-Recorded-Books-Inc.Rodney-Walter-z-lib.org_.pdf",
+        "kind": "error: scrape failed: HTTPSConnectionPool(host='api.firecrawl.dev', port=443): Rea",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      }
+    ],
+    "replacement_cost": {
+      "amount": 2559,
+      "currency": "INR",
+      "sources": [
+        "https://1804books.com/products/how-europe-underdeveloped-africa?srsltid=AYCX9vIIBB7ia5hXTjXIxA6EkV9AImxES-BocKoZaDYcqWHr42X0zCKh"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        26.95,
+        26.95
+      ],
+      "original_amount": 26.95,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": [
+      "only one replacement price source"
+    ]
+  },
+  "16": {
+    "title": "King Leopold's Ghost",
+    "evidence": [
+      {
+        "url": "https://www.harpercollins.com/products/king-leopolds-ghost-adam-hochschild",
+        "kind": "rejected: quote not found on page",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 16.8,
+          "price_list": 21.0,
+          "currency": "$",
+          "quote": "$21.00 Now: $16.80"
+        }
+      },
+      {
+        "url": "https://literatibookstore.com/book/9780358212508",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 21.0,
+          "price_list": null,
+          "currency": "$",
+          "quote": "Current price:\n$21.00"
+        }
+      },
+      {
+        "url": "https://www.abebooks.com/9780395759240/King-Leopolds-Ghost-Story-Greed-0395759242/plp",
+        "kind": "used",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Hardcover",
+          "price_type": "marketplace_used",
+          "condition": "used",
+          "price_payable": 18.63,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "Buy Used\n\nUS$ 18.63\n\nFree Shipping"
+        }
+      },
+      {
+        "url": "https://www.ebay.com/shop/king-leopold-s-ghost?_nkw=king+leopold+s+ghost",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 21.0,
+      "currency": "$",
+      "sources": [
+        "https://literatibookstore.com/book/9780358212508"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": false,
+      "range": [
+        21.0,
+        21.0
+      ]
+    },
+    "used_value": {
+      "amount": 1769,
+      "currency": "INR",
+      "sources": [
+        "https://www.abebooks.com/9780395759240/King-Leopolds-Ghost-Story-Greed-0395759242/plp"
+      ],
+      "retrieved_at": "2026-10-24",
+      "condition_assumed": "used",
+      "converted": true,
+      "original_amount": 18.63,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "review": [
+      "only one replacement price source"
+    ]
+  },
+  "17": {
+    "title": "Cobalt Red",
+    "evidence": [
+      {
+        "url": "https://www.abebooks.com/9781250284303/Cobalt-Red-Blood-Congo-Powers-1250284309/plp",
+        "kind": "rejected: quote not found on page",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Hardcover",
+          "price_type": "marketplace_used",
+          "condition": "used",
+          "price_payable": 8.27,
+          "price_list": null,
+          "currency": "US$",
+          "quote": "Hardcover\n\n\nISBN 10: 1250284309 ISBN 13: 9781250284303\n\n\nPublisher:\nSt. Martin's Press, 2023\n\n[View all  copies of this ISBN edition]\n\n[25 Used\\\n\\\nFrom\\\nUS$ 8.27]"
+        }
+      },
+      {
+        "url": "https://www.pulitzer.org/finalists/siddharth-kara",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://bookshop.org/p/books/cobalt-red-how-the-blood-of-the-congo-powers-our-lives-siddharth-kara/238cfe945a0e14ec",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 17.71,
+          "price_list": 19.0,
+          "currency": "USD",
+          "quote": "$17.71 $19.00"
+        }
+      },
+      {
+        "url": "https://thebookandcover.com/item/MWp_c1qAP1y9xCSYCDpg3g",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      }
+    ],
+    "replacement_cost": {
+      "amount": 1681,
+      "currency": "INR",
+      "sources": [
+        "https://bookshop.org/p/books/cobalt-red-how-the-blood-of-the-congo-powers-our-lives-siddharth-kara/238cfe945a0e14ec"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        17.71,
+        17.71
+      ],
+      "original_amount": 17.71,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": [
+      "only one replacement price source"
+    ]
+  },
+  "18": {
+    "title": "Do Not Disturb",
+    "evidence": [
+      {
+        "url": "https://www.flipkart.com/do-not-disturb/p/itmfbtmzq9grfnw3",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Hardcover",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 540.0,
+          "price_list": 1099.0,
+          "currency": "INR",
+          "quote": "1,099\n\n₹540\n\nBuy at ₹513"
+        }
+      },
+      {
+        "url": "https://www.bookswagon.com/book/do-not-disturb-wrong-michela/9780008238872?srsltid=AYCX9vI0HNoD4_QaGu82lGToWhT7KYSnQaeqkhEsUoHMflrlp2pWjYxF",
+        "kind": "error: scrape HTTP 500",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      },
+      {
+        "url": "https://www.hachettebookgroup.com/titles/michela-wrong/do-not-disturb/9781541703216/?lens=publicaffairs",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Trade Paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 19.99,
+          "price_list": 19.99,
+          "currency": "USD",
+          "quote": "Trade Paperback\n\n    $19.99\n    $24.99 CAD"
+        }
+      },
+      {
+        "url": "https://www.ebay.com/itm/318289660354",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 279.995,
+      "currency": "INR",
+      "sources": [
+        "https://www.flipkart.com/do-not-disturb/p/itmfbtmzq9grfnw3",
+        "https://www.hachettebookgroup.com/titles/michela-wrong/do-not-disturb/9781541703216/?lens=publicaffairs"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": false,
+      "range": [
+        19.99,
+        540.0
+      ]
+    },
+    "used_value": null,
+    "review": [
+      "replacement sources disagree by more than 50%"
+    ]
+  },
+  "19": {
+    "title": "Carthage Must Be Destroyed",
+    "evidence": [
+      {
+        "url": "https://www.penguinrandomhouse.com/books/294151/carthage-must-be-destroyed-by-richard-miles/",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 22.0,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "Paperback$22.00"
+        }
+      },
+      {
+        "url": "https://www.washingtonindependentreviewofbooks.com/bookreview/carthage-must-be-destroyed-the-rise-and-fall-of-an-ancient-civilization",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.theguardian.com/books/2010/apr/24/carthage-must-be-destroyed-miles",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://historicalnovelsociety.org/reviews/carthage-must-be-destroyed/",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 2089,
+      "currency": "INR",
+      "sources": [
+        "https://www.penguinrandomhouse.com/books/294151/carthage-must-be-destroyed-by-richard-miles/"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        22.0,
+        22.0
+      ],
+      "original_amount": 22.0,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": [
+      "only one replacement price source"
+    ]
+  },
+  "21": {
+    "title": "Carthage's Other Wars",
+    "evidence": [
+      {
+        "url": "https://www.casematepublishers.com/9781399021586/carthages-other-wars/",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 24.95,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "$24.95"
+        }
+      },
+      {
+        "url": "https://www.warcorner.com/9781399021586/carthages-other-wars/",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 17.5,
+          "price_list": 24.95,
+          "currency": "USD",
+          "quote": "$24.95\n\n$17.50"
+        }
+      },
+      {
+        "url": "https://www.penandswordbooks.com/9781399021586/carthages-other-wars/",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 24.95,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "$24.95"
+        }
+      },
+      {
+        "url": "https://openlibrary.org/authors/OL2698132A/Dexter_Hoyos",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 2369,
+      "currency": "INR",
+      "sources": [
+        "https://www.casematepublishers.com/9781399021586/carthages-other-wars/",
+        "https://www.warcorner.com/9781399021586/carthages-other-wars/",
+        "https://www.penandswordbooks.com/9781399021586/carthages-other-wars/"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        17.5,
+        24.95
+      ],
+      "original_amount": 24.95,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": []
+  },
+  "20": {
+    "title": "We Wish to Inform You That Tomorrow We Will Be Killed with Our Families",
+    "evidence": [
+      {
+        "url": "https://www.panmacmillan.com/authors/philip-gourevitch/we-wish-to-inform-you-that-tomorrow-we-will-be-killed-with-our-families/9781035038954",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": null,
+          "condition": "new",
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://academic.macmillan.com/academictrade/9780312243357/wewishtoinformyouthattomorrowwewillbekilledwithourfamilies/",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 20.0,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "$20.00\n\nTrade Paperback"
+        }
+      },
+      {
+        "url": "https://www.audible.com/pd/We-Wish-to-Inform-You-That-Tomorrow-We-Will-Be-Killed-with-Our-Families-Audiobook/1250251915?srsltid=AYCX9vKw-R0NNR1L1oYKpVdngKmDLP344WSv8HnDJCJgsEhuvIFw8gu1",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://shop.ushmm.org/products/we-wish-to-inform-you-that-tomorrow-we-will-be-killed-with-our-families-stories-from-rwanda",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price_payable": 20.0,
+          "price_list": null,
+          "currency": "USD",
+          "quote": "Default Title - $20.00 USD"
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 1899,
+      "currency": "INR",
+      "sources": [
+        "https://academic.macmillan.com/academictrade/9780312243357/wewishtoinformyouthattomorrowwewillbekilledwithourfamilies/",
+        "https://shop.ushmm.org/products/we-wish-to-inform-you-that-tomorrow-we-will-be-killed-with-our-families-stories-from-rwanda"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        20.0,
+        20.0
+      ],
+      "original_amount": 20.0,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": []
+  },
+  "23": {
+    "title": "Hannibal",
+    "evidence": [
+      {
+        "url": "https://www.simonandschuster.com/books/Hannibal/Patrick-N-Hunt/9781439102183",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Trade Paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 19.99,
+          "price_list": 19.99,
+          "currency": "USD",
+          "quote": "Trade Paperback\n\nLIST PRICE $19.99"
+        }
+      },
+      {
+        "url": "https://www.hannibalpatrickhunt.com/",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.patrickhunt.us/books",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "hardback",
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://thedeathofcarthage.com/1640/book-review-hannibal-by-patrick-n-hunt/",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 1898,
+      "currency": "INR",
+      "sources": [
+        "https://www.simonandschuster.com/books/Hannibal/Patrick-N-Hunt/9781439102183"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": true,
+      "range": [
+        19.99,
+        19.99
+      ],
+      "original_amount": 19.99,
+      "original_currency": "USD",
+      "fx_rate": 94.94,
+      "fx_date": "2026-10-23",
+      "fx_source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR"
+    },
+    "used_value": null,
+    "review": [
+      "only one replacement price source"
+    ]
+  },
+  "22": {
+    "title": "Hannibal",
+    "evidence": [
+      {
+        "url": "https://delbourgo.com/hannibal-philip-freeman-2/",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": null,
+          "condition": "new",
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.target.com/p/hannibal-by-philip-freeman-hardcover/-/A-90763428",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Hardcover",
+          "price_type": "list",
+          "condition": "new",
+          "price_payable": 38.99,
+          "price_list": 39.0,
+          "currency": "$",
+          "quote": "$38.99MSRP $39.00"
+        }
+      },
+      {
+        "url": "https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/16477/hannibal",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.postandcourier.com/features/book_reviews/review-hannibal-examining-the-man-behind-the-legend-uncovers-a-compelling-figure/article_3bd0db6a-d535-11ec-af9c-a728c9bdf07d.html",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price_payable": null,
+          "price_list": null,
+          "currency": null,
+          "quote": null
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 38.99,
+      "currency": "$",
+      "sources": [
+        "https://www.target.com/p/hannibal-by-philip-freeman-hardcover/-/A-90763428"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": false,
+      "range": [
+        38.99,
+        38.99
+      ]
+    },
+    "used_value": null,
+    "review": [
+      "only one replacement price source"
+    ]
+  }
+}

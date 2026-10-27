@@ -1,0 +1,47 @@
+{
+  "life 3.0": {
+    "spine_height_cm": 19.1,
+    "spine_thickness_cm": 4.4,
+    "frames": 5
+  },
+  "rich dad poor dad": {
+    "spine_height_cm": 18.1,
+    "spine_thickness_cm": 3.5,
+    "frames": 4
+  },
+  "science": {
+    "spine_height_cm": 23.9,
+    "spine_thickness_cm": 3.8,
+    "frames": 4
+  },
+  "mathematics": {
+    "spine_height_cm": 25.1,
+    "spine_thickness_cm": 6.3,
+    "frames": 5
+  },
+  "core python programming": {
+    "spine_height_cm": 25.8,
+    "spine_thickness_cm": 5.2,
+    "frames": 3
+  },
+  "science term - ii": {
+    "spine_height_cm": 20.7,
+    "spine_thickness_cm": 4.1,
+    "frames": 2
+  },
+  "mathematics x": {
+    "spine_height_cm": 25.5,
+    "spine_thickness_cm": 7.1,
+    "frames": 1
+  },
+  "deep learning with python": {
+    "spine_height_cm": 25.7,
+    "spine_thickness_cm": 4.1,
+    "frames": 2
+  },
+  "secondary school mathematics for class 10": {
+    "spine_height_cm": 24.7,
+    "spine_thickness_cm": 4.9,
+    "frames": 1
+  }
+}

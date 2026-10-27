@@ -1,0 +1,121 @@
+{
+  "books": [
+    {
+      "title": "Deep Learning with Python",
+      "author": null,
+      "confidence": 0.99,
+      "frame_ref": "f_0002_0003.99s.jpg",
+      "t_s": 3.99,
+      "row": "top",
+      "horizontal": "center",
+      "seen_in": [
+        "f_0002_0003.99s.jpg",
+        "f_0004_0007.96s.jpg",
+        "f_0006_0011.95s.jpg",
+        "f_0008_0015.95s.jpg",
+        "f_0010_0019.95s.jpg",
+        "f_0012_0024.14s.jpg",
+        "f_0014_0027.95s.jpg",
+        "f_0016_0031.95s.jpg",
+        "f_0018_0035.95s.jpg"
+      ]
+    },
+    {
+      "title": "Life 3.0",
+      "author": "Max Tegmark",
+      "confidence": 0.99,
+      "frame_ref": "f_0002_0003.99s.jpg",
+      "t_s": 3.99,
+      "row": "middle",
+      "horizontal": "center",
+      "seen_in": [
+        "f_0002_0003.99s.jpg",
+        "f_0004_0007.96s.jpg",
+        "f_0006_0011.95s.jpg",
+        "f_0008_0015.95s.jpg",
+        "f_0010_0019.95s.jpg",
+        "f_0012_0024.14s.jpg",
+        "f_0014_0027.95s.jpg",
+        "f_0016_0031.95s.jpg",
+        "f_0018_0035.95s.jpg"
+      ]
+    },
+    {
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "confidence": 0.99,
+      "frame_ref": "f_0002_0003.99s.jpg",
+      "t_s": 3.99,
+      "row": "bottom",
+      "horizontal": "center",
+      "seen_in": [
+        "f_0002_0003.99s.jpg",
+        "f_0004_0007.96s.jpg",
+        "f_0006_0011.95s.jpg",
+        "f_0008_0015.95s.jpg",
+        "f_0010_0019.95s.jpg",
+        "f_0012_0024.14s.jpg",
+        "f_0014_0027.95s.jpg",
+        "f_0016_0031.95s.jpg",
+        "f_0018_0035.95s.jpg"
+      ]
+    }
+  ],
+  "per_frame": [
+    {
+      "frame": "f_0000_0000.00s.jpg",
+      "legible": 0,
+      "unreadable": 0
+    },
+    {
+      "frame": "f_0002_0003.99s.jpg",
+      "legible": 3,
+      "unreadable": 0
+    },
+    {
+      "frame": "f_0004_0007.96s.jpg",
+      "legible": 3,
+      "unreadable": 0
+    },
+    {
+      "frame": "f_0006_0011.95s.jpg",
+      "legible": 3,
+      "unreadable": 0
+    },
+    {
+      "frame": "f_0008_0015.95s.jpg",
+      "legible": 3,
+      "unreadable": 0
+    },
+    {
+      "frame": "f_0010_0019.95s.jpg",
+      "legible": 3,
+      "unreadable": 0
+    },
+    {
+      "frame": "f_0012_0024.14s.jpg",
+      "legible": 3,
+      "unreadable": 0
+    },
+    {
+      "frame": "f_0014_0027.95s.jpg",
+      "legible": 3,
+      "unreadable": 0
+    },
+    {
+      "frame": "f_0016_0031.95s.jpg",
+      "legible": 3,
+      "unreadable": 0
+    },
+    {
+      "frame": "f_0018_0035.95s.jpg",
+      "legible": 3,
+      "unreadable": 0
+    },
+    {
+      "frame": "f_0020_0039.99s.jpg",
+      "legible": 0,
+      "unreadable": 0
+    }
+  ]
+}

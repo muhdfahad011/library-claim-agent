@@ -1,0 +1,208 @@
+[
+  {
+    "title": "1491",
+    "evidence": [
+      {
+        "url": "https://birchbarkbooks.com/products/1491",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price": 21.0,
+          "currency": "USD",
+          "quote": "Regular price\n\n$21.00$21.00"
+        }
+      },
+      {
+        "url": "https://www.penguinrandomhouse.com/books/107178/1491-second-edition-by-charles-c-mann/",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price": 21.0,
+          "currency": "USD",
+          "quote": "Paperback$21.00"
+        }
+      },
+      {
+        "url": "https://sobrief.com/books/1491",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://www.target.com/p/1491-by-charles-c-mann-hardcover/-/A-11973860",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "hardcover",
+          "price_type": null,
+          "condition": "new",
+          "price": null,
+          "currency": null,
+          "quote": null
+        }
+      }
+    ],
+    "replacement_cost": {
+      "amount": 21.0,
+      "currency": "USD",
+      "sources": [
+        "https://birchbarkbooks.com/products/1491",
+        "https://www.penguinrandomhouse.com/books/107178/1491-second-edition-by-charles-c-mann/"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": false,
+      "range": [
+        21.0,
+        21.0
+      ]
+    },
+    "used_value": null,
+    "review": []
+  },
+  {
+    "title": "Cobalt Red",
+    "evidence": [
+      {
+        "url": "https://www.abebooks.com/9781250284303/Cobalt-Red-Blood-Congo-Powers-1250284309/plp",
+        "kind": "rejected: quote not found on page",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Hardcover",
+          "price_type": "marketplace_used",
+          "condition": "used",
+          "price": 8.27,
+          "currency": "USD",
+          "quote": "25 Used\\\n\\\nFrom\\\nUS$ 8.27"
+        }
+      },
+      {
+        "url": "https://www.pulitzer.org/finalists/siddharth-kara",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": false,
+          "format": null,
+          "price_type": null,
+          "condition": null,
+          "price": null,
+          "currency": null,
+          "quote": null
+        }
+      },
+      {
+        "url": "https://bookshop.org/p/books/cobalt-red-how-the-blood-of-the-congo-powers-our-lives-siddharth-kara/238cfe945a0e14ec",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price": 17.71,
+          "currency": "USD",
+          "quote": "$17.71 $19.00"
+        }
+      },
+      {
+        "url": "https://thebookandcover.com/item/MWp_c1qAP1y9xCSYCDpg3g",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      }
+    ],
+    "replacement_cost": {
+      "amount": 17.71,
+      "currency": "USD",
+      "sources": [
+        "https://bookshop.org/p/books/cobalt-red-how-the-blood-of-the-congo-powers-our-lives-siddharth-kara/238cfe945a0e14ec"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": false,
+      "range": [
+        17.71,
+        17.71
+      ]
+    },
+    "used_value": null,
+    "review": []
+  },
+  {
+    "title": "King Leopold's Ghost",
+    "evidence": [
+      {
+        "url": "https://www.harpercollins.com/products/king-leopolds-ghost-adam-hochschild",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "paperback",
+          "price_type": "list",
+          "condition": "new",
+          "price": 21.0,
+          "currency": "USD",
+          "quote": "~~$21.00~~ Now: $16.80"
+        }
+      },
+      {
+        "url": "https://literatibookstore.com/book/9780358212508",
+        "kind": "replacement",
+        "retrieved_at": "2026-10-24",
+        "extract": {
+          "is_this_book": true,
+          "format": "Paperback",
+          "price_type": "retail",
+          "condition": "new",
+          "price": 21.0,
+          "currency": "USD",
+          "quote": "Current price:\n$21.00"
+        }
+      },
+      {
+        "url": "https://www.abebooks.com/9780395759240/King-Leopolds-Ghost-Story-Greed-0395759242/plp",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      },
+      {
+        "url": "https://www.ebay.com/shop/king-leopold-s-ghost?_nkw=king+leopold+s+ghost",
+        "kind": "rejected: no price or not this book",
+        "retrieved_at": "2026-10-24",
+        "extract": null
+      }
+    ],
+    "replacement_cost": {
+      "amount": 21.0,
+      "currency": "USD",
+      "sources": [
+        "https://www.harpercollins.com/products/king-leopolds-ghost-adam-hochschild",
+        "https://literatibookstore.com/book/9780358212508"
+      ],
+      "retrieved_at": "2026-10-24",
+      "converted": false,
+      "range": [
+        21.0,
+        21.0
+      ]
+    },
+    "used_value": null,
+    "review": []
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "1491": [
+    {
+      "url": "https://birchbarkbooks.com/products/1491",
+      "verified": true,
+      "why": "ok",
+      "retrieved_at": "2026-10-24",
+      "country": "India",
+      "extract": {
+        "is_this_book": true,
+        "format": "Paperback",
+        "price": 21.0,
+        "currency": "USD",
+        "quote": "$21.00$21.00"
+      }
+    },
+    {
+      "url": "https://www.jstor.org/stable/24889282",
+      "verified": false,
+      "why": "no price or not this book",
+      "retrieved_at": "2026-10-24",
+      "country": "India",
+      "extract": {
+        "is_this_book": false,
+        "format": null,
+        "price": null,
+        "currency": null,
+        "quote": null
+      }
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/107178/1491-second-edition-by-charles-c-mann/",
+      "verified": true,
+      "why": "ok",
+      "retrieved_at": "2026-10-24",
+      "country": "India",
+      "extract": {
+        "is_this_book": true,
+        "format": "Paperback",
+        "price": 21.0,
+        "currency": "USD",
+        "quote": "Paperback$21.00"
+      }
+    }
+  ],
+  "Cobalt Red": [
+    {
+      "url": "https://www.abebooks.com/9781250284303/Cobalt-Red-Blood-Congo-Powers-1250284309/plp",
+      "verified": false,
+      "why": "quote not found on page",
+      "retrieved_at": "2026-10-24",
+      "country": "India",
+      "extract": {
+        "is_this_book": true,
+        "format": "Hardcover",
+        "price": 8.27,
+        "currency": "US$",
+        "quote": "Hardcover\n\n\nISBN 10: 1250284309 ISBN 13: 9781250284303\n\n\nPublisher:\nSt. Martin's Press, 2023\n\n[View all copies of this ISBN edition]\n\n[25 Used\\\n\\\nFrom\\\nUS$ 8.27]"
+      }
+    },
+    {
+      "url": "https://www.pulitzer.org/finalists/siddharth-kara",
+      "verified": false,
+      "why": "no price or not this book",
+      "retrieved_at": "2026-10-24",
+      "country": "India",
+      "extract": {
+        "is_this_book": false,
+        "format": null,
+        "price": null,
+        "currency": null,
+        "quote": null
+      }
+    },
+    {
+      "url": "https://bookshop.org/p/books/cobalt-red-how-the-blood-of-the-congo-powers-our-lives-siddharth-kara/238cfe945a0e14ec",
+      "verified": false,
+      "why": "quote not found on page",
+      "retrieved_at": "2026-10-24",
+      "country": "India",
+      "extract": {
+        "is_this_book": true,
+        "format": "Paperback",
+        "price": 17.71,
+        "currency": "$",
+        "quote": "Paperback\n\n$17.71 $19.00"
+      }
+    }
+  ],
+  "King Leopold's Ghost": [
+    {
+      "url": "https://www.harpercollins.com/products/king-leopolds-ghost-adam-hochschild",
+      "verified": true,
+      "why": "ok",
+      "retrieved_at": "2026-10-24",
+      "country": "India",
+      "extract": {
+        "is_this_book": true,
+        "format": "Paperback",
+        "price": 16.8,
+        "currency": "$",
+        "quote": "~~$21.00~~ Now: $16.80"
+      }
+    },
+    {
+      "url": "https://literatibookstore.com/book/9780358212508",
+      "verified": true,
+      "why": "ok",
+      "retrieved_at": "2026-10-24",
+      "country": "India",
+      "extract": {
+        "is_this_book": true,
+        "format": "Paperback",
+        "price": 21.0,
+        "currency": "$",
+        "quote": "Current price:\n$21.00"
+      }
+    },
+    {
+      "url": "https://www.abebooks.com/9780395759240/King-Leopolds-Ghost-Story-Greed-0395759242/plp",
+      "verified": true,
+      "why": "ok",
+      "retrieved_at": "2026-10-24",
+      "country": "India",
+      "extract": {
+        "is_this_book": true,
+        "format": "Hardcover",
+        "price": 18.63,
+        "currency": "USD",
+        "quote": "Buy Used\n\nUS$ 18.63"
+      }
+    }
+  ]
+}

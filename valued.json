@@ -1,0 +1,587 @@
+[
+  {
+    "title": "Indigenous Continent",
+    "author": "Pekka H\u00e4m\u00e4l\u00e4inen",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "Indigenous Continent",
+      "authors": [
+        "Pekka H\u00e4m\u00e4l\u00e4inen"
+      ],
+      "publisher": "Liveright",
+      "first_published": 2022,
+      "isbn13": "9781324094067",
+      "ol_key": "/works/OL27815501W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 20.0,
+      "format": "paperback",
+      "confidence": 0.8,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "The Journey of Crazy Horse",
+    "author": null,
+    "confidence": 0.9,
+    "match": {
+      "matched_title": "The Journey of Crazy Horse",
+      "authors": [
+        "Joseph Marshall"
+      ],
+      "publisher": "Highbridge Audio",
+      "first_published": 2004,
+      "isbn13": "9781440645648",
+      "ol_key": "/works/OL7988187W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 18.0,
+      "format": "paperback",
+      "confidence": 0.8,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "Fifth Sun",
+    "author": "Camilla Townsend",
+    "confidence": 0.85,
+    "match": {
+      "matched_title": "Fifth Sun",
+      "authors": [
+        "Camilla Townsend"
+      ],
+      "publisher": "Oxford University Press",
+      "first_published": 2019,
+      "isbn13": "9780197577660",
+      "ol_key": "/works/OL20872735W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 19.0,
+      "format": "paperback",
+      "confidence": 0.8,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "Bad Mexicans",
+    "author": "Kelly Lytle Hern\u00e1ndez",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "Bad Mexicans - Race, Empire, and Revolution in the Borderlands",
+      "authors": [
+        "Kelly Lytle Hern\u00e1ndez"
+      ],
+      "publisher": "W. W. Norton & Company",
+      "first_published": 2022,
+      "isbn13": "9781324004370",
+      "ol_key": "/works/OL26515200W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 18.0,
+      "format": "paperback",
+      "confidence": 0.8,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "Dope",
+    "author": "Benjamin T. Smith",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "The Dope",
+      "authors": [
+        "Benjamin T. Smith"
+      ],
+      "publisher": "W.W. Norton",
+      "first_published": 2021,
+      "isbn13": "9781324021827",
+      "ol_key": "/works/OL24667986W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 20.0,
+      "format": "paperback",
+      "confidence": 0.7,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "Cuba: An American History",
+    "author": "Ada Ferrer",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "Battles of Cuba! Containing an authentic account of the battles fought on that island in her late struggle for independence: including a description of the dreadful massacre of fifty-two American citizens, with a list of their names. Also, the capture and death of Gen. Lopez!!! To which is added a graphic history of the Mexican War",
+      "authors": [
+        "E. Hutchinson"
+      ],
+      "publisher": "Pub. at 128 Nassau street",
+      "first_published": 1852,
+      "isbn13": null,
+      "ol_key": "/works/OL16733536W"
+    },
+    "title_score": 0.02,
+    "status": "REVIEW",
+    "review_reasons": [
+      "title mismatch (0.02)",
+      "author mismatch",
+      "no ISBN"
+    ],
+    "valuation": {
+      "price_usd": 20.0,
+      "format": "paperback",
+      "confidence": 0.8,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "The Cubans",
+    "author": "Anthony DePalma",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "The Cubans",
+      "authors": [
+        "Anthony DePalma"
+      ],
+      "publisher": "Random House Children's Books",
+      "first_published": 2020,
+      "isbn13": "9780525522454",
+      "ol_key": "/works/OL20850877W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 18.0,
+      "format": "paperback",
+      "confidence": 0.8,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "The Black Jacobins",
+    "author": "C. L. R. James",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "The Black Jacobins",
+      "authors": [
+        "C. L. R. James"
+      ],
+      "publisher": "Dial Press",
+      "first_published": 1935,
+      "isbn13": "9780241562079",
+      "ol_key": "/works/OL1155988W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 18.0,
+      "format": "paperback",
+      "confidence": 0.8,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "Open Veins of Latin America",
+    "author": "Eduardo Galeano",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "Open Veins Of Latin America ",
+      "authors": [
+        "Eduardo Galeano"
+      ],
+      "publisher": "Three Essays",
+      "first_published": 2008,
+      "isbn13": null,
+      "ol_key": "/works/OL43348045W"
+    },
+    "title_score": 1.0,
+    "status": "REVIEW",
+    "review_reasons": [
+      "no ISBN"
+    ],
+    "valuation": {
+      "price_usd": 17.0,
+      "format": "paperback",
+      "confidence": 0.8,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "War Against All Puerto Ricans",
+    "author": "Nelson A. Denis",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "War against all Puerto Ricans",
+      "authors": [
+        "Nelson A. Denis"
+      ],
+      "publisher": "PublicAffairs",
+      "first_published": 2015,
+      "isbn13": "9781568585024",
+      "ol_key": "/works/OL17798885W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 18.0,
+      "format": "paperback",
+      "confidence": 0.8,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "1491",
+    "author": "Charles C. Mann",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "1491",
+      "authors": [
+        "Charles C. Mann"
+      ],
+      "publisher": "Yuan zu wen hua shi ye gu gen you xian gong si fa xing",
+      "first_published": 2005,
+      "isbn13": "9780307278180",
+      "ol_key": "/works/OL3494320W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 18.0,
+      "format": "paperback",
+      "confidence": 0.9,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "Conquistador",
+    "author": "Buddy Levy",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "Conquistador",
+      "authors": [
+        "Buddy Levy"
+      ],
+      "publisher": "Bantam Books",
+      "first_published": 2008,
+      "isbn13": "9780553905267",
+      "ol_key": "/works/OL1968651W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 18.0,
+      "format": "paperback",
+      "confidence": 0.7,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "Wake",
+    "author": "Rebecca Hall",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "Wake",
+      "authors": [
+        "Rebecca Hall",
+        "Hugo Mart\u00ednez"
+      ],
+      "publisher": "Penguin Books, Limited",
+      "first_published": 2021,
+      "isbn13": "9780141997742",
+      "ol_key": "/works/OL24517446W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 20.0,
+      "format": "paperback",
+      "confidence": 0.7,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "The Fortunes of Africa",
+    "author": "Martin Meredith",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "The fortunes of Africa",
+      "authors": [
+        "Martin Meredith"
+      ],
+      "publisher": "Simon & Schuster",
+      "first_published": 2014,
+      "isbn13": "9781610394598",
+      "ol_key": "/works/OL19996750W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 22.0,
+      "format": "paperback",
+      "confidence": 0.7,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "How Europe Underdeveloped Africa",
+    "author": "Walter Rodney",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "The Enduring Relevance of Walter Rodney's How Europe Underdeveloped Africa",
+      "authors": [
+        "Karim F. Hirji"
+      ],
+      "publisher": "Mkuki Na Nyota",
+      "first_published": 2017,
+      "isbn13": "9780995222397",
+      "ol_key": "/works/OL27973310W"
+    },
+    "title_score": 1.0,
+    "status": "REVIEW",
+    "review_reasons": [
+      "author mismatch"
+    ],
+    "valuation": {
+      "price_usd": 20.0,
+      "format": "paperback",
+      "confidence": 0.8,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "White Malice",
+    "author": "Susan Williams",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "White Malice",
+      "authors": [
+        "Susan Williams"
+      ],
+      "publisher": "C. Hurst and Company (Publishers) Limited",
+      "first_published": 2021,
+      "isbn13": "9781541768284",
+      "ol_key": "/works/OL25418772W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 20.0,
+      "format": "paperback",
+      "confidence": 0.7,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "King Leopold's Ghost",
+    "author": "Adam Hochschild",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "King Leopold's ghost",
+      "authors": [
+        "Adam Hochschild"
+      ],
+      "publisher": "Papermac",
+      "first_published": 1998,
+      "isbn13": "9788499429441",
+      "ol_key": "/works/OL1869541W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 18.0,
+      "format": "paperback",
+      "confidence": 0.9,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "Cobalt Red",
+    "author": "Siddharth Kara",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "Cobalt Red",
+      "authors": [
+        "Siddharth Kara"
+      ],
+      "publisher": "W.A.B.",
+      "first_published": 2022,
+      "isbn13": "9780190886233",
+      "ol_key": "/works/OL26346638W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 28.0,
+      "format": "hardcover",
+      "confidence": 0.7,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "Do Not Disturb",
+    "author": "Michela Wrong",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "Do Not Disturb",
+      "authors": [
+        "Michela Wrong"
+      ],
+      "publisher": "PublicAffairs",
+      "first_published": 2020,
+      "isbn13": "9781610398435",
+      "ol_key": "/works/OL21923401W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 19.0,
+      "format": "paperback",
+      "confidence": 0.7,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "Carthage Must Be Destroyed",
+    "author": "Richard Miles",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "Carthage must be destroyed",
+      "authors": [
+        "Richard Miles"
+      ],
+      "publisher": "Viking",
+      "first_published": 2011,
+      "isbn13": "9780670022663",
+      "ol_key": "/works/OL15920564W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 20.0,
+      "format": "paperback",
+      "confidence": 0.7,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "We Wish to Inform You That Tomorrow We Will Be Killed with Our Families",
+    "author": "Philip Gourevitch",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "We wish to inform you that tomorrow we will be killed with our families",
+      "authors": [
+        "Philip Gourevitch"
+      ],
+      "publisher": "Gallimard",
+      "first_published": 1998,
+      "isbn13": "9781035038954",
+      "ol_key": "/works/OL1894071W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 17.0,
+      "format": "paperback",
+      "confidence": 0.8,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "Carthage's Other Wars",
+    "author": "Dexter Hoyos",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "Carthage's Other Wars",
+      "authors": [
+        "Dexter Hoyos"
+      ],
+      "publisher": "Pen & Sword Books Limited",
+      "first_published": 2019,
+      "isbn13": "9781781593578",
+      "ol_key": "/works/OL25767695W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 35.0,
+      "format": "hardcover",
+      "confidence": 0.5,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "Hannibal",
+    "author": "Philip Freeman",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "Hannibal",
+      "authors": [
+        "Philip Freeman"
+      ],
+      "publisher": "Pegasus Books",
+      "first_published": 2022,
+      "isbn13": "9781639363650",
+      "ol_key": "/works/OL25480410W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 18.0,
+      "format": "paperback",
+      "confidence": 0.7,
+      "source": "model_estimate"
+    }
+  },
+  {
+    "title": "Hannibal",
+    "author": "Patrick N. Hunt",
+    "confidence": 0.95,
+    "match": {
+      "matched_title": "Hannibal",
+      "authors": [
+        "Patrick N. Hunt"
+      ],
+      "publisher": "Simon & Schuster",
+      "first_published": 2017,
+      "isbn13": "9781439109779",
+      "ol_key": "/works/OL27467139W"
+    },
+    "title_score": 1.0,
+    "status": "OK",
+    "review_reasons": [],
+    "valuation": {
+      "price_usd": 20.0,
+      "format": "paperback",
+      "confidence": 0.7,
+      "source": "model_estimate"
+    }
+  }
+]

@@ -1,0 +1,647 @@
+{
+  "1": {
+    "title": "The Journey of Crazy Horse",
+    "replacement_cost": {
+      "amount": 1756,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://www.penguinrandomhouse.com/books/291225/the-journey-of-crazy-horse-by-joseph-m-marshall-iii/",
+          "amount": 19.0,
+          "currency": "USD",
+          "format": "paperback"
+        },
+        {
+          "url": "https://www.ingallshomestead.com/books/journey-of-crazy-horse?srsltid=AYCX9vJgIW-1hGQmw70vx0AsGSzyoydFWi2HLRpT7H_LZxyymm2RJXRH",
+          "amount": 18.0,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": []
+  },
+  "0": {
+    "title": "Indigenous Continent",
+    "replacement_cost": {
+      "amount": 2089,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://birchbarkbooks.com/products/indigenous-continent",
+          "amount": 22.0,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "single source"
+    ]
+  },
+  "3": {
+    "title": "Bad Mexicans",
+    "replacement_cost": {
+      "amount": 1894,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://www.labyrinthbooks.com/bad-mexicans-race-empire-and-revolution-in-the-borderlands/",
+          "amount": 19.95,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "single source"
+    ]
+  },
+  "2": {
+    "title": "Fifth Sun",
+    "replacement_cost": null,
+    "review": [
+      "no verified replacement price"
+    ]
+  },
+  "4": {
+    "title": "Dope",
+    "replacement_cost": {
+      "amount": 2563,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://www.penguinrandomhouse.ca/books/696437/the-dope-by-benjamin-t-smith/9781324021827",
+          "amount": 27.0,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "single source"
+    ]
+  },
+  "5": {
+    "title": "Cuba: An American History",
+    "replacement_cost": {
+      "amount": 1650,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://bulkbookstore.com/cuba-an-american-history-9781501154560?srsltid=AYCX9vL96oxtO3OnYN9lJ9ix32JLm9vGRQ6XmhVQRXfaBHPnwyWPAwAq",
+          "amount": 12.76,
+          "currency": "USD",
+          "format": "paperback"
+        },
+        {
+          "url": "https://www.simonandschuster.com/books/Cuba-(Winner-of-the-Pulitzer-Prize)/Ada-Ferrer/9781501154560",
+          "amount": 22.0,
+          "currency": "USD",
+          "format": "trade paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "sources differ by more than 50%",
+      "mixed formats"
+    ]
+  },
+  "6": {
+    "title": "The Cubans",
+    "replacement_cost": {
+      "amount": 2184,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://www.penguinrandomhouse.com/books/562138/the-cubans-by-anthony-depalma/",
+          "amount": 23.0,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "single source"
+    ]
+  },
+  "7": {
+    "title": "The Black Jacobins",
+    "replacement_cost": {
+      "amount": 1262,
+      "currency": "INR",
+      "converted": false,
+      "sources": [
+        {
+          "url": "https://www.flipkart.com/the-black-jacobins/p/itma38b0aeb033a0",
+          "amount": 385.0,
+          "currency": "INR",
+          "format": "paperback"
+        },
+        {
+          "url": "https://www.ubuy.co.in/product/4K4PC26OG-the-black-jacobins-toussaint-l-x27-ouverture-and-the-san-domingo-revolution?srsltid=AYCX9vJR-raJNwqTpnXXKExXid6IJKEpa6lWJpiOGI_405tEqt6Nt5Ht",
+          "amount": 2140.0,
+          "currency": "INR",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24"
+    },
+    "review": [
+      "sources differ by more than 50%"
+    ]
+  },
+  "8": {
+    "title": "Open Veins of Latin America",
+    "replacement_cost": {
+      "amount": 2089,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://citylights.com/latin-america/open-veins-of-latin-amer-25th-anniv-ed/",
+          "amount": 22.0,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "single source"
+    ]
+  },
+  "10": {
+    "title": "1491",
+    "replacement_cost": {
+      "amount": 1994,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://birchbarkbooks.com/products/1491",
+          "amount": 21.0,
+          "currency": "USD",
+          "format": "paperback"
+        },
+        {
+          "url": "https://www.penguinrandomhouse.com/books/107178/1491-second-edition-by-charles-c-mann/",
+          "amount": 21.0,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": []
+  },
+  "9": {
+    "title": "War Against All Puerto Ricans",
+    "replacement_cost": {
+      "amount": 3239,
+      "currency": "INR",
+      "converted": false,
+      "sources": [
+        {
+          "url": "https://www.flipkart.com/hi/war-against-all-puerto-ricans/p/itmf3qrgjfgduzyz",
+          "amount": 3239.0,
+          "currency": "INR",
+          "format": "hardcover"
+        }
+      ],
+      "retrieved_at": "2026-10-24"
+    },
+    "review": [
+      "single source",
+      "hardcover price used"
+    ]
+  },
+  "11": {
+    "title": "Conquistador",
+    "replacement_cost": {
+      "amount": 1946,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://www.target.com/p/conquistador-by-buddy-levy-paperback/-/A-91572811",
+          "amount": 18.0,
+          "currency": "USD",
+          "format": "paperback"
+        },
+        {
+          "url": "https://www.penguinrandomhouse.com/books/100714/conquistador-by-buddy-levy/",
+          "amount": 23.0,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": []
+  },
+  "12": {
+    "title": "Wake",
+    "replacement_cost": {
+      "amount": 1898,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://rep.club/products/wake-pb?srsltid=AYCX9vIzWci4ZzmDOqT7qmHFV2IvWUMRP8dE3DicHL7YHR09TSqWbHpB",
+          "amount": 19.99,
+          "currency": "USD",
+          "format": "paperback"
+        },
+        {
+          "url": "https://www.simonandschuster.com/books/Wake/Rebecca-Hall/9781982115197",
+          "amount": 19.99,
+          "currency": "USD",
+          "format": "trade paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "mixed formats"
+    ]
+  },
+  "13": {
+    "title": "The Fortunes of Africa",
+    "replacement_cost": {
+      "amount": 2011,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://www.hachettebookgroup.com/titles/martin-meredith/the-fortunes-of-africa/9781610396356/?lens=publicaffairs",
+          "amount": 24.99,
+          "currency": "USD",
+          "format": "trade paperback"
+        },
+        {
+          "url": "https://www.simonandschuster.co.uk/books/Fortunes-of-Africa/Martin-Meredith/9781471135453",
+          "amount": 12.99,
+          "currency": "GBP",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "mixed formats"
+    ]
+  },
+  "15": {
+    "title": "White Malice",
+    "replacement_cost": {
+      "amount": 2455,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://hurstpublishers.com/book/white-malice/",
+          "amount": 19.99,
+          "currency": "GBP",
+          "format": "paperback"
+        },
+        {
+          "url": "https://firestorm.coop/products/20387-white-malice.html",
+          "amount": 24.99,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": []
+  },
+  "14": {
+    "title": "How Europe Underdeveloped Africa",
+    "replacement_cost": {
+      "amount": 2559,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://1804books.com/products/how-europe-underdeveloped-africa?srsltid=AYCX9vIIBB7ia5hXTjXIxA6EkV9AImxES-BocKoZaDYcqWHr42X0zCKh",
+          "amount": 26.95,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "single source"
+    ]
+  },
+  "16": {
+    "title": "King Leopold's Ghost",
+    "replacement_cost": {
+      "amount": 1994,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://literatibookstore.com/book/9780358212508",
+          "amount": 21.0,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "single source"
+    ]
+  },
+  "17": {
+    "title": "Cobalt Red",
+    "replacement_cost": {
+      "amount": 1681,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://bookshop.org/p/books/cobalt-red-how-the-blood-of-the-congo-powers-our-lives-siddharth-kara/238cfe945a0e14ec",
+          "amount": 17.71,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "single source"
+    ]
+  },
+  "18": {
+    "title": "Do Not Disturb",
+    "replacement_cost": {
+      "amount": 540,
+      "currency": "INR",
+      "converted": false,
+      "sources": [
+        {
+          "url": "https://www.flipkart.com/do-not-disturb/p/itmfbtmzq9grfnw3",
+          "amount": 540.0,
+          "currency": "INR",
+          "format": "hardcover"
+        }
+      ],
+      "retrieved_at": "2026-10-24"
+    },
+    "review": [
+      "single source",
+      "hardcover price used"
+    ]
+  },
+  "19": {
+    "title": "Carthage Must Be Destroyed",
+    "replacement_cost": {
+      "amount": 2089,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://www.penguinrandomhouse.com/books/294151/carthage-must-be-destroyed-by-richard-miles/",
+          "amount": 22.0,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "single source"
+    ]
+  },
+  "21": {
+    "title": "Carthage's Other Wars",
+    "replacement_cost": {
+      "amount": 2369,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://www.casematepublishers.com/9781399021586/carthages-other-wars/",
+          "amount": 24.95,
+          "currency": "USD",
+          "format": "paperback"
+        },
+        {
+          "url": "https://www.warcorner.com/9781399021586/carthages-other-wars/",
+          "amount": 17.5,
+          "currency": "USD",
+          "format": "paperback"
+        },
+        {
+          "url": "https://www.penandswordbooks.com/9781399021586/carthages-other-wars/",
+          "amount": 24.95,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": []
+  },
+  "20": {
+    "title": "We Wish to Inform You That Tomorrow We Will Be Killed with Our Families",
+    "replacement_cost": {
+      "amount": 1899,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://academic.macmillan.com/academictrade/9780312243357/wewishtoinformyouthattomorrowwewillbekilledwithourfamilies/",
+          "amount": 20.0,
+          "currency": "USD",
+          "format": "paperback"
+        },
+        {
+          "url": "https://shop.ushmm.org/products/we-wish-to-inform-you-that-tomorrow-we-will-be-killed-with-our-families-stories-from-rwanda",
+          "amount": 20.0,
+          "currency": "USD",
+          "format": "paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": []
+  },
+  "23": {
+    "title": "Hannibal",
+    "replacement_cost": {
+      "amount": 1898,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://www.simonandschuster.com/books/Hannibal/Patrick-N-Hunt/9781439102183",
+          "amount": 19.99,
+          "currency": "USD",
+          "format": "trade paperback"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "single source"
+    ]
+  },
+  "22": {
+    "title": "Hannibal",
+    "replacement_cost": {
+      "amount": 3702,
+      "currency": "INR",
+      "converted": true,
+      "sources": [
+        {
+          "url": "https://www.target.com/p/hannibal-by-philip-freeman-hardcover/-/A-90763428",
+          "amount": 38.99,
+          "currency": "USD",
+          "format": "hardcover"
+        }
+      ],
+      "retrieved_at": "2026-10-24",
+      "fx": {
+        "date": "2026-10-23",
+        "source": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=INR,GBP",
+        "usd_inr": 94.94,
+        "gbp_inr": 126.9183
+      }
+    },
+    "review": [
+      "single source",
+      "hardcover price used"
+    ]
+  }
+}

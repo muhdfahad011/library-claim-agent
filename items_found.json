@@ -1,0 +1,407 @@
+[
+  {
+    "category": "shelving",
+    "description": "Wooden wall-mounted shelf holding books",
+    "material": "wood",
+    "approx_width_cm": 120.0,
+    "approx_height_cm": 15.0,
+    "brand_model": null,
+    "is_art_or_portrait": false,
+    "confidence": 0.95,
+    "frame_ref": "f_0000_0000.00s.jpg",
+    "seen_in": [
+      "f_0000_0000.00s.jpg",
+      "f_0006_0003.00s.jpg",
+      "f_0012_0006.00s.jpg",
+      "f_0018_0009.00s.jpg",
+      "f_0018_0009.00s.jpg",
+      "f_0060_0030.00s.jpg"
+    ],
+    "status": "unpriced"
+  },
+  {
+    "category": "framed art",
+    "description": "Framed historical map of the Iberian Peninsula hanging on the wall",
+    "material": "wood and paper",
+    "approx_width_cm": 45.0,
+    "approx_height_cm": 65.0,
+    "brand_model": null,
+    "is_art_or_portrait": true,
+    "confidence": 0.92,
+    "frame_ref": "f_0000_0000.00s.jpg",
+    "seen_in": [
+      "f_0000_0000.00s.jpg",
+      "f_0006_0003.00s.jpg"
+    ],
+    "status": "needs_appraisal"
+  },
+  {
+    "category": "shelving",
+    "description": "Wooden floating shelf mounted on the wall holding books",
+    "material": "wood",
+    "approx_width_cm": 50.0,
+    "approx_height_cm": 15.0,
+    "brand_model": null,
+    "is_art_or_portrait": false,
+    "confidence": 0.95,
+    "frame_ref": "f_0012_0006.00s.jpg",
+    "seen_in": [
+      "f_0012_0006.00s.jpg"
+    ],
+    "status": "unpriced"
+  },
+  {
+    "category": "framed art",
+    "description": "Framed map of the Roman Empire on the wall",
+    "material": "wood",
+    "approx_width_cm": 35.0,
+    "approx_height_cm": 45.0,
+    "brand_model": null,
+    "is_art_or_portrait": true,
+    "confidence": 0.9,
+    "frame_ref": "f_0012_0006.00s.jpg",
+    "seen_in": [
+      "f_0012_0006.00s.jpg"
+    ],
+    "status": "needs_appraisal"
+  },
+  {
+    "category": "decor",
+    "description": "Framed picture or document mounted on the wall",
+    "material": "paper",
+    "approx_width_cm": 25.0,
+    "approx_height_cm": 30.0,
+    "brand_model": null,
+    "is_art_or_portrait": false,
+    "confidence": 0.8,
+    "frame_ref": "f_0018_0009.00s.jpg",
+    "seen_in": [
+      "f_0018_0009.00s.jpg"
+    ],
+    "status": "unpriced"
+  },
+  {
+    "category": "decor",
+    "description": "Whiteboard with handwritten text",
+    "material": "plastic",
+    "approx_width_cm": 50.0,
+    "approx_height_cm": 40.0,
+    "brand_model": null,
+    "is_art_or_portrait": false,
+    "confidence": 0.9,
+    "frame_ref": "f_0018_0009.00s.jpg",
+    "seen_in": [
+      "f_0018_0009.00s.jpg",
+      "f_0042_0021.00s.jpg"
+    ],
+    "status": "unpriced"
+  },
+  {
+    "category": "shelving",
+    "description": "Wooden wall-mounted shelf with black metal brackets holding books",
+    "material": "wood and metal",
+    "approx_width_cm": 45.0,
+    "approx_height_cm": 15.0,
+    "brand_model": null,
+    "is_art_or_portrait": false,
+    "confidence": 0.95,
+    "frame_ref": "f_0024_0012.00s.jpg",
+    "seen_in": [
+      "f_0024_0012.00s.jpg",
+      "f_0030_0015.00s.jpg",
+      "f_0030_0015.00s.jpg",
+      "f_0036_0018.00s.jpg",
+      "f_0036_0018.00s.jpg",
+      "f_0042_0021.00s.jpg"
+    ],
+    "status": "unpriced"
+  },
+  {
+    "category": "furniture",
+    "description": "Whiteboard with handwritten text on the left side of the frame",
+    "material": "metal and plastic",
+    "approx_width_cm": 50.0,
+    "approx_height_cm": 70.0,
+    "brand_model": null,
+    "is_art_or_portrait": false,
+    "confidence": 0.95,
+    "frame_ref": "f_0024_0012.00s.jpg",
+    "seen_in": [
+      "f_0024_0012.00s.jpg"
+    ],
+    "status": "unpriced"
+  },
+  {
+    "category": "shelving",
+    "description": "Another upper wooden shelf partially visible at the top",
+    "material": "wood",
+    "approx_width_cm": 40.0,
+    "approx_height_cm": 20.0,
+    "brand_model": null,
+    "is_art_or_portrait": false,
+    "confidence": 0.9,
+    "frame_ref": "f_0024_0012.00s.jpg",
+    "seen_in": [
+      "f_0024_0012.00s.jpg"
+    ],
+    "status": "unpriced"
+  },
+  {
+    "category": "shelving",
+    "description": "Lower wooden shelf on the right side holding a book",
+    "material": "wood",
+    "approx_width_cm": 30.0,
+    "approx_height_cm": 15.0,
+    "brand_model": null,
+    "is_art_or_portrait": false,
+    "confidence": 0.9,
+    "frame_ref": "f_0024_0012.00s.jpg",
+    "seen_in": [
+      "f_0024_0012.00s.jpg"
+    ],
+    "status": "unpriced"
+  },
+  {
+    "category": "furniture",
+    "description": "Whiteboard mounted on the wall with handwritten book titles and notes",
+    "material": "plastic",
+    "approx_width_cm": 50.0,
+    "approx_height_cm": 60.0,
+    "brand_model": null,
+    "is_art_or_portrait": false,
+    "confidence": 0.95,
+    "frame_ref": "f_0030_0015.00s.jpg",
+    "seen_in": [
+      "f_0030_0015.00s.jpg"
+    ],
+    "status": "unpriced"
+  },
+  {
+    "category": "decor",
+    "description": "Orange paper craft with a white handprint located beneath the whiteboard",
+    "material": "paper",
+    "approx_width_cm": 20.0,
+    "approx_height_cm": 15.0,
+    "brand_model": null,
+    "is_art_or_portrait": false,
+    "confidence": 0.85,
+    "frame_ref": "f_0030_0015.00s.jpg",
+    "seen_in": [
+      "f_0030_0015.00s.jpg"
+    ],
+    "status": "unpriced"
+  },
+  {
+    "category": "framed art",
+    "description": "Framed picture with a rustic wooden frame showing a map or artwork in the lower right",
+    "material": "wood",
+    "approx_width_cm": 40.0,
+    "approx_height_cm": 30.0,
+    "brand_model": null,
+    "is_art_or_portrait": true,
+    "confidence": 0.9,
+    "frame_ref": "f_0030_0015.00s.jpg",
+    "seen_in": [
+      "f_0030_0015.00s.jpg"
+    ],
+    "status": "needs_appraisal"
+  },
+  {
+    "category": "framed art and portraits",
+    "description": "Framed map artwork in the lower right corner",
+    "material": "wood",
+    "approx_width_cm": 30.0,
+    "approx_height_cm": 40.0,
+    "brand_model": null,
+    "is_art_or_portrait": true,
+    "confidence": 0.95,
+    "frame_ref": "f_0036_0018.00s.jpg",
+    "seen_in": [
+      "f_0036_0018.00s.jpg"
+    ],
+    "status": "needs_appraisal"
+  },
+  {
+    "category": "decor",
+    "description": "Orange paper with white handprint and letter B",
+    "material": "paper",
+    "approx_width_cm": 20.0,
+    "approx_height_cm": 25.0,
+    "brand_model": null,
+    "is_art_or_portrait": true,
+    "confidence": 0.85,
+    "frame_ref": "f_0036_0018.00s.jpg",
+    "seen_in": [
+      "f_0036_0018.00s.jpg",
+      "f_0042_0021.00s.jpg"
+    ],
+    "status": "needs_appraisal"
+  },
+  {
+    "category": "framed art and portraits",
+    "description": "Framed map of Britannia Romanorum",
+    "material": "wood and paper",
+    "approx_width_cm": 35.0,
+    "approx_height_cm": 45.0,
+    "brand_model": null,
+    "is_art_or_portrait": true,
+    "confidence": 0.9,
+    "frame_ref": "f_0042_0021.00s.jpg",
+    "seen_in": [
+      "f_0042_0021.00s.jpg"
+    ],
+    "status": "needs_appraisal"
+  },
+  {
+    "category": "shelving",
+    "description": "Small upper wooden shelf with black metal brackets",
+    "material": "wood and metal",
+    "approx_width_cm": 20.0,
+    "approx_height_cm": 20.0,
+    "brand_model": null,
+    "is_art_or_portrait": false,
+    "confidence": 0.9,
+    "frame_ref": "f_0042_0021.00s.jpg",
+    "seen_in": [
+      "f_0042_0021.00s.jpg"
+    ],
+    "status": "unpriced"
+  },
+  {
+    "category": "Framed Art",
+    "description": "An antique-style historical map framed or mounted on the wall on the left side",
+    "material": "paper",
+    "approx_width_cm": 60.0,
+    "approx_height_cm": 80.0,
+    "brand_model": null,
+    "is_art_or_portrait": true,
+    "confidence": 0.95,
+    "frame_ref": "f_0048_0024.00s.jpg",
+    "seen_in": [
+      "f_0048_0024.00s.jpg"
+    ],
+    "status": "needs_appraisal"
+  },
+  {
+    "category": "Shelving",
+    "description": "A small wooden floating wall shelf holding a row of books",
+    "material": "wood",
+    "approx_width_cm": 45.0,
+    "approx_height_cm": 15.0,
+    "brand_model": null,
+    "is_art_or_portrait": false,
+    "confidence": 0.95,
+    "frame_ref": "f_0048_0024.00s.jpg",
+    "seen_in": [
+      "f_0048_0024.00s.jpg",
+      "f_0054_0027.00s.jpg"
+    ],
+    "status": "unpriced"
+  },
+  {
+    "category": "Framed Art",
+    "description": "A black and white canvas print of ancient ruins or a temple on the upper right side",
+    "material": "canvas",
+    "approx_width_cm": 40.0,
+    "approx_height_cm": 50.0,
+    "brand_model": null,
+    "is_art_or_portrait": true,
+    "confidence": 0.95,
+    "frame_ref": "f_0048_0024.00s.jpg",
+    "seen_in": [
+      "f_0048_0024.00s.jpg"
+    ],
+    "status": "needs_appraisal"
+  },
+  {
+    "category": "Framed Art",
+    "description": "A partial view of another black and white canvas print at the bottom right corner",
+    "material": "canvas",
+    "approx_width_cm": 40.0,
+    "approx_height_cm": 40.0,
+    "brand_model": null,
+    "is_art_or_portrait": true,
+    "confidence": 0.9,
+    "frame_ref": "f_0048_0024.00s.jpg",
+    "seen_in": [
+      "f_0048_0024.00s.jpg"
+    ],
+    "status": "needs_appraisal"
+  },
+  {
+    "category": "decor",
+    "description": "Framed antique map canvas on the wall",
+    "material": "canvas",
+    "approx_width_cm": 25.0,
+    "approx_height_cm": 40.0,
+    "brand_model": null,
+    "is_art_or_portrait": true,
+    "confidence": 0.92,
+    "frame_ref": "f_0054_0027.00s.jpg",
+    "seen_in": [
+      "f_0054_0027.00s.jpg"
+    ],
+    "status": "needs_appraisal"
+  },
+  {
+    "category": "decor",
+    "description": "Black and white canvas print depicting ancient ruins (Parthenon)",
+    "material": "canvas",
+    "approx_width_cm": 30.0,
+    "approx_height_cm": 45.0,
+    "brand_model": null,
+    "is_art_or_portrait": true,
+    "confidence": 0.95,
+    "frame_ref": "f_0054_0027.00s.jpg",
+    "seen_in": [
+      "f_0054_0027.00s.jpg",
+      "f_0054_0027.00s.jpg"
+    ],
+    "status": "needs_appraisal"
+  },
+  {
+    "category": "shelving",
+    "description": "Upper wooden wall-mounted floating shelf",
+    "material": "wood",
+    "approx_width_cm": 50.0,
+    "approx_height_cm": 15.0,
+    "brand_model": null,
+    "is_art_or_portrait": false,
+    "confidence": 0.9,
+    "frame_ref": "f_0060_0030.00s.jpg",
+    "seen_in": [
+      "f_0060_0030.00s.jpg"
+    ],
+    "status": "unpriced"
+  },
+  {
+    "category": "framed art",
+    "description": "Canvas print of the Colosseum",
+    "material": "canvas",
+    "approx_width_cm": 40.0,
+    "approx_height_cm": 30.0,
+    "brand_model": null,
+    "is_art_or_portrait": true,
+    "confidence": 0.95,
+    "frame_ref": "f_0060_0030.00s.jpg",
+    "seen_in": [
+      "f_0060_0030.00s.jpg"
+    ],
+    "status": "needs_appraisal"
+  },
+  {
+    "category": "framed art",
+    "description": "Map artwork partially visible on the upper left",
+    "material": "paper",
+    "approx_width_cm": 25.0,
+    "approx_height_cm": 20.0,
+    "brand_model": null,
+    "is_art_or_portrait": true,
+    "confidence": 0.8,
+    "frame_ref": "f_0060_0030.00s.jpg",
+    "seen_in": [
+      "f_0060_0030.00s.jpg"
+    ],
+    "status": "needs_appraisal"
+  }
+]
