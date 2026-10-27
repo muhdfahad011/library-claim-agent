@@ -38,3 +38,8 @@ Gemini Live (gemini-3.8-live), Gemini 3.5 Flash and Flash-Lite, Firecrawl (searc
 - Voice corrections and coaching rely on the agent's instructions and were not tested properly.
 - Cost per sweep and latency per stage were not measured.
 - See `FAILURE_LOG.md`.
+
+Phone note: the reference server rejects any Host that is not localhost or 127.0.0.1 (local_access in server.py), and its origin check compares the http scheme, so an https tunnel is blocked until both checks are patched to allow one specific tunnel host. The tunnel step was not completed or tested in this submission.
+
+## Phone use (intended setup, not yet tested end to end)
+The sweep is meant to run from a phone browser using the rear camera (the code requests facingMode environment). The backend runs on a laptop. Phone browsers only allow camera and microphone on https, so the local server would be exposed through an https tunnel (for example a cloudflared quick tunnel). A tunnel address gives access to the app and the API quota behind it, so it must stay private and be closed afterwards.
