@@ -1,34 +1,20 @@
-﻿# Failure log (draft, edit in your own words)
+﻿# Failure log
 
-1. **Google Books price lookup failed.** Anonymous requests returned 429 (daily quota). With my Gemini key it returned 401. Even when it works it mostly gives ebook prices, which are not valid replacement costs for printed books. Dropped it.
-2. **Model-guessed prices rejected.** My first pricing script asked Gemini for typical prices from memory. The brief forbids prices without a retrievable source. Replaced with: Firecrawl retrieves retailer pages, Gemini extracts only from the page text and quotes the exact sentence, and code checks the quote is really on the page.
-3. **Gemini Google Search grounding returned 429** on a free-tier key, so it could not be the price source.
-4. **Model availability.** gemini-2.5-flash returned 404 (no longer available to new users). Newer Flash models intermittently returned 503 (high demand). Switched models and retried.
-5. **Open Library identification is only partly reliable.** Publisher fields were often from another edition (an audiobook publisher, a children's imprint). The ISBN for *1491* was the ebook's ISBN. Two matches were wrong (Cuba: An American History; How Europe Underdeveloped Africa) and were caught by a validation step. The packet now keeps `isbn` empty and stores the unconfirmed one as `isbn_candidate`.
-6. **Retailer pages.** Amazon returned a generic page with no price. An AbeBooks price of $18.63 was accepted although the page showed only used $14.98 and new $56.68. Marketplace pages are now never used for replacement cost.
-7. **Currency bug.** The median mixed INR and USD (540 INR with 19.99 USD became 279.995) and treated GBP as USD. Fixed by tagging every source with its currency, using local INR prices when they exist, and otherwise converting with a dated exchange rate (frankfurter).
-8. **Rate limits hidden as "no price".** Two parallel workers on free tiers made failed calls look like missing prices (5 of 24 priced). Now sequential, errors are recorded as errors, and failed books are retried (23 of 24 priced).
-9. **Same page, different prices.** One publisher page gave $16.80 on one run and $21.00 on another (list vs discounted price). Now both fields are extracted and the payable price is used.
-10. **Reference app limits.** It sends 512 px frames at 1 fps and keeps only the latest frame, which cannot read shelf spines or give a saved frame per item. Planned: separate high-resolution capture saved to disk.
-11. **File named inspect.py** shadowed Python's own module and crashed an unrelated script. Renamed.
+## Three worst errors
 
-## Still open
-- 15 prices need hand-checking against the real product pages.
-- Country and currency should come from the conversation, not a default.
-- Video sweep, spine measurement, room area, non-book items, ground truth.
+**1. Failures hidden as "no price" (pricing).** Two parallel workers on free tiers hit rate limits, and my code recorded every failed call as "no verified price", so only 5 of 24 books were priced and it looked like the books could not be priced.
+Root cause: errors were swallowed instead of recorded. Measured fix: run sequentially, record each failure with its reason, retry failed books. Result: 23 of 24 books priced from retrieved pages, each with URL and date. Not yet checked on a second set of books.
 
-## Measurement results (3-book test, 480 x 854 WhatsApp video)
-- Scale came from one reference book (Life 3.0, 19.05 cm, same-plane assumption). Pixels per cm stayed stable at about 19.4 to 19.8 across frames.
-- Height: 3 of 3 within 15% of tape (+13%, +12%, +2%), all leaning high.
-- Thickness: 0 of 3 within 15% (+62%, +116%, +84%). Fails the pass bar.
-- Boxes drawn by the model spilled onto the cover edge and gaps (seen in boxes_check.jpg). Books were at the same distance as the reference, so distance error is not the cause here.
-- Fix tried: crop each spine, enlarge 3x, re-box the spine face only. Thickness errors only moved to +50%, +74%, +80%. Still 0 of 3.
-- Probable cause (not confirmed): a 1.9 cm spine is only about 37 px wide at this resolution, so a few extra pixels per edge doubles the value. Untested on original-quality 1080p footage.
-- Limits of this test: 3 books, not the required 20; tape readings were to the nearest quarter inch (about 0.6 cm), which alone is about 17% on a 1.9 cm spine. Final run should use a ruler in millimetres.
-- Not done: no correction factor was applied, because tuning to 3 books would only fit this table.
+**2. Spine thickness fails the pass bar (measurement).** On a 480x854 WhatsApp video with one reference book (Life 3.0, 19.05 cm), height was within 15% on 3 of 3 hand-measured books (+13%, +12%, +2%), but thickness was within 15% on 0 of 3 (+62%, +116%, +84%). Boxes drawn by the model spilled onto the cover edge and gaps.
+Root cause (not confirmed): a 1.9 cm spine is only about 37 px wide at that resolution, so a few extra pixels double it. Fix tried: crop each spine, enlarge 3x, re-box. Thickness only moved to +50%, +74%, +80%, still 0 of 3. A rule now blanks any size that was not measured in at least 2 frames or is physically implausible. Untested on original 1080p footage. Only 3 books were hand-measured, not 20.
 
-## Live agent failures found while testing
-- The log_books tool failed on every call with "name 'types' is not defined" (my patch used a library name the file never imported). It failed in 1 to 28 ms, before reaching the model.
-- While the tool was failing, the agent told me two books had been "successfully logged" when the inventory showed zero. Fix: the agent is now told to say so when the tool errors and never to confirm a book the tool did not return. Not yet re-tested against a deliberate failure.
-- An old server kept the port, so my first tests ran the old code without the new tool. Found from a port-in-use error.
-- Firecrawl free credits ran out (0 left), so prices cannot be retrieved. The report states this where prices would appear.
+**3. The agent claimed books were logged when the tool had failed (live agent).** The log_books tool failed on every call with "name 'types' is not defined" (a missing import in my patch), yet the agent said two books were successfully logged while the inventory showed 0.
+Root cause: my code bug, plus an agent instruction that did not forbid confirming without a tool result. Fix: added the import and an instruction to report tool errors and never confirm a book the tool did not return. The inventory then showed the books. The instruction was not re-tested against a deliberate failure.
+
+Other bugs found: a price median that mixed INR and USD (540 INR and 19.99 USD gave 279.995), fixed by tagging each source with its currency; an AbeBooks price accepted that matched no price on the page, fixed by never using marketplace pages for replacement cost; a stale server holding the port so the new tool was not loaded.
+
+## Cost per sweep and latency per stage
+Not measured. Known counts per sweep: about 11 to 21 Gemini Flash-Lite calls for spine reading (spines.py), 24 for other contents and spine boxes (stages.py), one per book for log_books during the live sweep. Firecrawl: pricing 24 books plus my experiments used up the free allowance, and credits per book were not logged. Latency per stage was not timed.
+
+## What I would change with two more weeks
+Film a real room in original 1080p with a flat A4 sheet as scale, measure 20 spines and 15 prices by hand, replace the model's boxes with a detector for spine edges, log credits and seconds per stage, and give the agent a tool-failure test.
